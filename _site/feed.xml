@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jordan Lowes</title>
+    <description>A Personal blog site/portfolio
+</description>
+    <link>http://jordann.github.io//</link>
+    <atom:link href="http://jordann.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 03 Nov 2014 17:22:10 -0500</pubDate>
+    <lastBuildDate>Mon, 03 Nov 2014 17:22:10 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>My Blog</title>
+        <description>&lt;p&gt;Just started this site to be used as a blog/portfolio web site. I decided to go with a static site generator of Jekyll.
+This lets me use Markdown which is great. This makes adding posts and editing them very easy. Since im using github to version control 
+my site I can easily add a blog post from any device.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m going to be adding to the design and updating the site throughout the next weeks, if you are interested about creating a static site 
+and having it GitHub serve it up, I added a couple links below for you to get started.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Learn how to serve it up with &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Oct 2014 10:34:25 -0400</pubDate>
+        <link>http://jordann.github.io//jekyll/update/2014/10/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://jordann.github.io//jekyll/update/2014/10/29/welcome-to-jekyll.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
