@@ -6,9 +6,36 @@
 </description>
     <link>http://jordann.github.io//</link>
     <atom:link href="http://jordann.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 03 Nov 2014 17:22:10 -0500</pubDate>
-    <lastBuildDate>Mon, 03 Nov 2014 17:22:10 -0500</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2014 12:25:13 -0500</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2014 12:25:13 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Matters Of Moments</title>
+        <description>&lt;p&gt;MOM stands for &amp;quot;matter of moments&amp;quot;. In short it is a time tracking tool which understands that you don&amp;#39;t want 
+to have to think about how to record your time, instead you want it to seize the moments of attention that you award it.&lt;/p&gt;
+
+&lt;p&gt;MOM is all about building operational software in new and sane way that will ready us for the growth of the application.&lt;/p&gt;
+
+&lt;p&gt;The goal is to create an application that is completely Decentralized. Seperating all our concerns creates 
+an application that can grow well in the open source community. By using tools that can help us enforce this 
+practice we hope to get a better understanding on creating apps that are very clear and readable by someone looking to contribute.&lt;/p&gt;
+
+&lt;p&gt;During the development I find that I am always learning new things and how to incorporate different frameworks and packages
+into the work flow. Hopefully the app will be done soon to show off and get more people involved in the process!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Nov 2014 07:14:25 -0500</pubDate>
+        <link>http://jordann.github.io//mobile/application/2014/11/03/mom-app.html</link>
+        <guid isPermaLink="true">http://jordann.github.io//mobile/application/2014/11/03/mom-app.html</guid>
+        
+        <category>regular</category>
+        
+        
+        <category>mobile</category>
+        
+        <category>application</category>
+        
+      </item>
     
       <item>
         <title>My Blog</title>
